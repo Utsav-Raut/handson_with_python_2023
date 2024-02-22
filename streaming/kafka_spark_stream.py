@@ -90,3 +90,5 @@ writing_df = agg_df  \
 # 1. Exception in the running program
 # 2. Manual Interruption
 writing_df.awaitTermination()
+
+https://subhamkharwal.medium.com/pyspark-structured-streaming-read-from-kafka-64c40767155f
